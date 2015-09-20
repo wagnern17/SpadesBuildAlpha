@@ -1,0 +1,9 @@
+Actions:
+
+Select a partner
+Place blind bid
+Place normal bid (view cards)
+Select a card
+Play a (legal) card
+New game
+View rules
